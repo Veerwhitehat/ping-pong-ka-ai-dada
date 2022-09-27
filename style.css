@@ -1,0 +1,25 @@
+#line{
+
+align-items: center;
+
+}
+#ball{
+
+    align-items: flex-end;
+
+}
+
+#bat1{
+
+    float: left;
+
+
+}
+
+#bat2{
+
+    float: right;
+    float: bottom;
+    
+
+}
